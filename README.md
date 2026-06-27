@@ -12,5 +12,3 @@ To configure a basic firewall using UFW on Linux.
 
 ## Result
 Firewall is active with correct rules.
-
-## Screenshot
