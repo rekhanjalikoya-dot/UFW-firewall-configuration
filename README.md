@@ -12,3 +12,8 @@ To configure a basic firewall using UFW on Linux.
 
 ## Result
 Firewall is active with correct rules.
+
+## Screenshot
+<img width="1600" height="768" alt="ufw status" src="https://github.com/user-attachments/assets/f3adcadc-685b-4ba4-ab68-5be5f9aeb8f5" />
+
+
